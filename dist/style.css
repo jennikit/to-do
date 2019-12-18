@@ -1,0 +1,41 @@
+.headings {
+  font-family:  'Domine', serif;
+  color: #ffb3b3;
+}
+span {
+  font-family: Caveat;
+}
+.big {
+    font-size: 40px;
+    font-weight: bold;
+}
+.body {
+  font-size:30px;
+}
+
+#awesome {
+  font-size:70px;
+}
+#inputbox {
+  width:300px;
+  border-color:grey;
+  border-style:dashed;
+  border-width:2px;
+}
+#submit {
+  border-color:black;
+  border-width:2px;
+  border-style:dashed;
+  margin-left:10px;
+}
+
+.completed {
+  text-decoration:line-through;
+}
+.remove {
+  float:right;
+  cursor:pointer;
+}
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  color: #999999;
