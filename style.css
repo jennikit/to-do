@@ -1,7 +1,7 @@
 .headings {
   font-family:  'Domine', serif;
   color: #ffb3b3;
-  font-size: 100px;
+  font-size: 120px;
 }
 span {
   font-family: Caveat;
@@ -15,7 +15,7 @@ span {
 }
 
 #awesome {
-  font-size:100px;
+  font-size:120px;
 }
 #inputbox {
   width:300px;
@@ -40,4 +40,4 @@ span {
 h2 {
   font-family: 'Shadows Into Light', cursive;
   color: #999999;
-  font-size: 40px;
+  font-size: 30px;
