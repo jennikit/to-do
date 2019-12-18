@@ -1,6 +1,7 @@
 .headings {
   font-family:  'Domine', serif;
   color: #ffb3b3;
+  font-size: 100px;
 }
 span {
   font-family: Caveat;
@@ -14,7 +15,7 @@ span {
 }
 
 #awesome {
-  font-size:70px;
+  font-size:100px;
 }
 #inputbox {
   width:300px;
